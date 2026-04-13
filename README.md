@@ -1,4 +1,4 @@
-# 👨‍💻 Eduardo Moraes
+# Eduardo Moraes
 
 Analista de Sistemas com experiência em desenvolvimento, automação de processos e gestão de ambientes de TI.
 ------------------------------------------------------------------------------------------------------------
@@ -9,11 +9,9 @@ Analista de Sistemas com experiência em desenvolvimento, automação de process
 ------------------------------------------------------------------------------------------------------------
 ## Tecnologias
 
-- Python  
-- SQL 
-- ERP TOTVS Protheus  
-- Power BI  
-- Excel Avançado  
+- Python 
+- SQL
+- PHP
 ------------------------------------------------------------------------------------------------------------
 ## Atuação
 
@@ -25,5 +23,6 @@ Analista de Sistemas com experiência em desenvolvimento, automação de process
 ------------------------------------------------------------------------------------------------------------
 ## Sobre
 
-Atuo na área de tecnologia com foco em eficiência operacional e melhoria contínua, utilizando soluções práticas para resolver problemas reais do negócio.
+Atuo na área de tecnologia com foco em eficiência operacional e melhoria contínua, utilizando soluções
+práticas para resolver problemas reais do negócio.
 ------------------------------------------------------------------------------------------------------------
